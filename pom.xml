@@ -12,7 +12,7 @@
 	<artifactId>spring-mvc-formation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-mvc-formation</name>
-	<description>Student Management System Using Spring Boot and Thymeleaf</description>
+	<description>Student Management System Using Spring Boot - MVC and Thymeleaf</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
