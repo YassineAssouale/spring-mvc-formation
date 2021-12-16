@@ -41,8 +41,4 @@ public class Application {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	
-	
-	
-	
 }
