@@ -21,4 +21,8 @@ public class ServiceApplication {
 	public List<Application> getListeApp(){
 		return listeApp;
 	}
+	
+	public void setListeApp(List<Application> listeApp) {
+		this.listeApp = listeApp;
+	}
 }
